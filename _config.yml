@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/images/50829870.jpg"
   bio              : "게임개발을 위한 C++ 공부용 블로그"
   location         : "South Korea"
-  email            : "gjwogus01@naver.com"
+  email            : # "gjwogus01@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
