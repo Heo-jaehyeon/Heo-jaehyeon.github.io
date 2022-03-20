@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "WoodPecker"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/50829870.jpg"
   bio              : "게임개발을 위한 C++ 공부용 블로그"
   location         : "South Korea"
   email            : "gjwogus01@naver.com"
