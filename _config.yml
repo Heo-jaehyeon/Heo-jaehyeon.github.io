@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : "딱따구리"
+title_separator          : "|"
+subtitle                 : "Today that you have lived in vain is the tomorrow that a person who died yesterday truly wanted to live"
+name                     : "Heo-jaehyeon"
+description              : "게임개발을 위해 C++를 공부하고 있는 대학생입니다"
 url                      : "https://Heo-jaehyeon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
