@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "WOODPECKER'S CODING BLOG"
+title                    : "DONGLE'S CODING BLOG"
 title_separator          : "|"
 subtitle                 : "Today that you have lived in vain is the tomorrow that a person who died yesterday truly wanted to live"
 name                     : "Heo-jaehyeon"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "Woodpecker"
+    shortname            : "DONGLE"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Woodpecker"
+  name             : "DONGLE"
   avatar           : "/assets/images/50829870.jpg"
   bio              : "게임개발을 위한 프로그래밍 언어 <br/>공부용 블로그"
   location         : "South Korea"
