@@ -1,13 +1,14 @@
+---
 layout: single
-title: "C++ 문법(1) "주석(Comment)과 정수(Integer)""
+title: "C++ 문법(1) : "주석(Comment)과 정수(Integer)""
 categories: C++
-tag: [C++, Programming, study]
+tag: [C++, Programming, Study]
 toc: true
 author_profile: false
 sidebar:
     nav: "docs"
 search: true
-
+---
 
 
 # 주석
@@ -83,7 +84,7 @@ cout << g << endl; // 65535 -> 정수 언더플로우
 
 
 
-**Q : 대충 4바이트인 타입 int로만 선언하면 안될까?**
+Q : 대충 4바이트인 타입 int로만 선언하면 안될까?
 
 A : 콘솔/모바일 게임 개발 같은 경우에는 메모리가 늘 부족  !
 
