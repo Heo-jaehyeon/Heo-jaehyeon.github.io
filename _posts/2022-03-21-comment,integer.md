@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title: "C++ 문법(1): 주석(Comment)과 정수(Integer)"
+title: "C++ 문법(1) : 주석(Comment)과 정수(Integer)"
 categories: C++
 tag: [C++, Programming, Study]
 toc: true
