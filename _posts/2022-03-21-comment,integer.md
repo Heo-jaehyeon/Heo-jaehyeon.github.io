@@ -1,3 +1,4 @@
+---
 layout: single
 title: "C++ 문법(1) "주석(Comment)과 정수(Integer)""
 categories: C++
@@ -7,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 search: true
-
+---
 
 
 # 주석
