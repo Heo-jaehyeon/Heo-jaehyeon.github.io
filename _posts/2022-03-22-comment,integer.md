@@ -32,6 +32,9 @@ Ctrl+K+C (Comment), Ctrl+K+U(UnComment)
 
 
 
+
+
+
 # 정수
 ## 변수 선언 방법   
 ```c++
