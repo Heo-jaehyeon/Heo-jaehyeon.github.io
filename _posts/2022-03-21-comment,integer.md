@@ -12,7 +12,7 @@ search: true
 
 
 # 주석
-ㅛ
+
 ## 한 줄 주석 //
 
 ```c++
@@ -34,9 +34,9 @@ Ctrl+K+C (Comment), Ctrl+K+U(UnComment)
 
 
 # 정수
-
+;ㅣㅣ
 ## 변수 선언 방법
-
+;ㅣㅣ
 ```c++
 #include <iostream>
 using namespace std;
