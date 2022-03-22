@@ -40,7 +40,6 @@ Ctrl+K+C (Comment), Ctrl+K+U(UnComment)
 변수 선언 방법은 다음과 같다
 
 [타입] [이름];
-
 [타입] [이름] = [초기값];
 
 ```c++
