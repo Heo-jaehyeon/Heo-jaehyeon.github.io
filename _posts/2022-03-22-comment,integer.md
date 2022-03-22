@@ -36,7 +36,8 @@ Ctrl+K+C (Comment), Ctrl+K+U(UnComment)
 # 정수
    
 #### 변수 선언 방법
-   
+[타입] [이름];   
+[타입] [이름] = [초기값];   
 ```c++
 #include <iostream>
 using namespace std;
