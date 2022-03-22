@@ -36,6 +36,7 @@ Ctrl+K+C (Comment), Ctrl+K+U(UnComment)
 # 정수
    
 #### 변수 선언 방법
+   
 ```c++
 #include <iostream>
 using namespace std;
@@ -65,7 +66,7 @@ int main()
 ```
 
 #### 오버플로우와 언더플로우
-
+   
 오버플로우(Overflow)는 사전적으로 넘쳐흐른다라는 뜻을 가지고 있다
 
 ```c++
