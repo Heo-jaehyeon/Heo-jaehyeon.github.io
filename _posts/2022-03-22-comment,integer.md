@@ -36,7 +36,7 @@ Ctrl+K+C (Comment), Ctrl+K+U(UnComment)
 # 정수
 
 ## 변수 선언 방법
-이이이
+ 
 ```c++
 #include <iostream>
 using namespace std;
@@ -72,7 +72,7 @@ int main()
 ```
 
 ## 오버플로우와 언더플로우
-이이이
+ 
 ```c++
 b = 32767;
 b = b+1;
