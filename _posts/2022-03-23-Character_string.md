@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "C++ 문법(3) : 문자(Character)와 문자열(String)"
+title: "C++ 문법(3) : 문자(Characters)와 문자열(Strings)"
 categories: C++
 tag: [C++, Programming, Study]
 toc: true
@@ -10,7 +10,7 @@ sidebar:
 search: true
 ---
 
-# 문자(Character)
+# 문자(Characters)
 
 문자(char)는 정수지만 '문자' 의미를 나타내기 위해 사용 (bool과 같음)
 
@@ -88,7 +88,7 @@ ASCII (American Standard Code for Information Interchange)
 \n = 아스키코드10 = LineFeed (한줄 아래로)   
 \\'
 
-# 문자열
+# 문자열(Strings)
 
 **문자들이 열을 지어서 모여 있는 것**   
 
