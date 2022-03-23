@@ -91,6 +91,7 @@ ASCII (American Standard Code for Information Interchange)
 # 문자열
 
 **문자들이 열을 지어서 모여 있는 것**   
+
 **맨 끝에는 \0 이 저장되어있다 (NULL(0))**
 
 ```c++
