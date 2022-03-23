@@ -1,3 +1,4 @@
+---
 layout: single
 title: "C++ 문법(3) : 문자(Character)와 문자열(String)"
 categories: C++
@@ -7,6 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 search: true
+---
 
 # 문자(Character)
 
@@ -53,7 +55,7 @@ ASCII (American Standard Code for Information Interchange)
 
 문자의 의미로 작은 따옴표 '' 사용
 
-![ASCII_Table](C:\Users\307대대\Desktop\ASCII_Table.jpg)
+![ASCII_Table](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/ASCII_Table.jpg?raw=true)
 
 ## 유니코드(Unicode) 
 
