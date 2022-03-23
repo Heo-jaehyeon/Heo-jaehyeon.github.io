@@ -82,6 +82,7 @@ ASCII (American Standard Code for Information Interchange)
 ## Escape Sequence
 
 **표기하기 애매한 애들을 표현**
+   
 \0 = 아스키코드0 = NULL   
 \t = 아스키코드9 = Tab   
 \n = 아스키코드10 = LineFeed (한줄 아래로)   
