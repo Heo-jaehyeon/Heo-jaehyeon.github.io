@@ -76,19 +76,20 @@ ASCII (American Standard Code for Information Interchange)
 ### UTF16 (동아시아권에서 사용)
 
 - 알파벳, 숫자, 한글, 한자 등 거의 대부분 문자 2바이트
+- 
 - 고대문자만 4바이트
 
 ## Escape Sequence
 
 **표기하기 애매한 애들을 표현**
-\0 = 아스키코드0 = NULL
-\t = 아스키코드9 = Tab
-\n = 아스키코드10 = LineFeed (한줄 아래로)
+\0 = 아스키코드0 = NULL   
+\t = 아스키코드9 = Tab   
+\n = 아스키코드10 = LineFeed (한줄 아래로)   
 \\'
 
 # 문자열
 
-**문자들이 열을 지어서 모여 있는 것**
+**문자들이 열을 지어서 모여 있는 것**   
 **맨 끝에는 \0 이 저장되어있다 (NULL(0))**
 
 ```c++
