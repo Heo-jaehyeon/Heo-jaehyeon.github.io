@@ -1,3 +1,4 @@
+---
 layout: single
 title: "C++ 문법(2) : 불리언 (Boolean)과 부동소수점 (Floating point number)"
 categories: C++
@@ -7,6 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 search: true
+---
 
 # 불리언 (Boolean)
 
