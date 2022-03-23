@@ -76,7 +76,7 @@ ASCII (American Standard Code for Information Interchange)
 ### UTF16 (동아시아권에서 사용)
 
 - 알파벳, 숫자, 한글, 한자 등 거의 대부분 문자 2바이트
-- 
+
 - 고대문자만 4바이트
 
 ## Escape Sequence
