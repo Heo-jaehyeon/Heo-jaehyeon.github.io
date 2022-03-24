@@ -1,3 +1,4 @@
+---
 layout: single
 title: "C++ 문법(4) : 데이터 연산(Data operation)"
 categories: C++
@@ -7,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 search: true
-
+---
 
 
 # 데이터 연산 (Data operation)
