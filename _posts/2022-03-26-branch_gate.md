@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "C++ 문법(6) : 분기문 (Branch gate)"
+title: "C++ 문법(5) : 분기문 (Branch gate)"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
