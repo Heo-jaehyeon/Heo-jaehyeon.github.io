@@ -1,7 +1,7 @@
 ---
 title: "공지 사항"
 layout: archive
-permalink: categories/cpp-games
+permalink: categories/NOTICE
 author_profile: true
 sidebar_main: true
 ---
