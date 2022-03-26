@@ -23,6 +23,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <span class="nav__sub-title">etc</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "NOTICE" %}
