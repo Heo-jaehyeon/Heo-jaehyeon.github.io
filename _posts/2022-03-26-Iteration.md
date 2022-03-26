@@ -25,9 +25,7 @@ using namespace std;
 
 int main()
 {
-
 	/*
-	
 	while 반복문 구조
 	
 	while (조건식)
@@ -43,7 +41,6 @@ int main()
 		cout << "Hello World" << endl;
 		count++;
 	}
-  
 }
 ```
 
