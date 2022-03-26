@@ -86,14 +86,13 @@ while 반복문과의 차이점
 		명령문
 	}
 	
-	*/
+*/
 	
 	for (int i = 0; i < 5; i++)
 	{
 		cout << "Hello World" << endl;
 	}
 	// Hello World 5번 출력
-*/
 ```
 
 
