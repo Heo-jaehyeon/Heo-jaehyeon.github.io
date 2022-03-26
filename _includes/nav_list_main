@@ -27,7 +27,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "NOTICE" %}
-                        <li><a href="/categories/NOTICE" class="">etc ({{category[1].size}})</a></li>
+                        <li><a href="/categories/NOTICE" class="">공지 사항 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
