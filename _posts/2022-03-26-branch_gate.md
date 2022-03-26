@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "C++ 문법(6) : 분기문(Precautions)"
+title: "C++ 문법(6) : 분기문(Branch gate)"
 categories: C++
 tag: [C++, Programming, Study]
 toc: true
@@ -10,7 +10,7 @@ sidebar:
 search: true
 ---
 
-# 분기문
+# 분기문 (Branch gate)
 
 ## if else 문
 
@@ -73,7 +73,7 @@ if-else 를 3번 이상 중첩할때부터 가독성이 떨어짐
 
 따라서 else if를 사용!
 
-```C++
+```++
 if (isDead)
 	cout << "몬스터를 처치했습니다" << endl;
 else if (hp <= 20)
