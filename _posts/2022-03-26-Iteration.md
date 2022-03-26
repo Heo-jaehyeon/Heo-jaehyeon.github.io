@@ -1,3 +1,4 @@
+---
 layout: single
 title: "C++ 문법(6) : 반복문 (Iteration)"
 categories: C++
@@ -7,6 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 search: true
+---
 
 # 반복문 (Iteration)
 
