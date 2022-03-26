@@ -1,5 +1,5 @@
 ---
-title: "공지사항"
+title: "공지 사항"
 layout: archive
 permalink: categories/cpp-games
 author_profile: true
