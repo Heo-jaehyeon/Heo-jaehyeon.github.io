@@ -4,9 +4,7 @@ title: "C++ 문법(1) : 주석(Comment)과 정수(Integer)"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
-author_profile: false
-sidebar:
-    nav: "docs"
+author_profile: true
 search: true
 ---
 
