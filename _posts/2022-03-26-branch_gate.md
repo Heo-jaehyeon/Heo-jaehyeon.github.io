@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "C++ 문법(6) : 분기문 (Branch gate)"
-categories: C++
+categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
 author_profile: false
