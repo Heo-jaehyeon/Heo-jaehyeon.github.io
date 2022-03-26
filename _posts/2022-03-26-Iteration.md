@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "C++ 문법(6) : 반복문 (Iteration)"
+title: "C++ 문법(7) : 반복문 (Iteration)"
 categories: C++
 tag: [C++, Programming, Study]
 toc: true
