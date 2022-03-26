@@ -4,9 +4,7 @@ title: "C++ 문법(3) : 문자(Characters)와 문자열(Strings)"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
-author_profile: false
-sidebar:
-    nav: "docs"
+author_profile: true
 search: true
 ---
 
