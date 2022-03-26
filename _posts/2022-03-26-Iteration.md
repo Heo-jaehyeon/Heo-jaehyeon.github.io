@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "C++ 문법(7) : 반복문 (Iteration)"
-categories: C++
-tag: [Cpp, Programming, Study]
+categories: Cpp
+tag: [C++, Programming, Study]
 toc: true
 author_profile: false
 sidebar:
