@@ -12,7 +12,7 @@ search: true
 
 **열거자 이름들은 일반적으로 해당 언어의 상수 역할을 하는 식별자**
 
-## Const, Enum, #define
+## Const, Enum, #define   
 
 ```C++
 #include <iostream>
