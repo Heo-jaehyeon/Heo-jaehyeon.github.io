@@ -14,7 +14,7 @@ search: true
 
 ## Const, Enum, #define   
 
-```C++
+```c++
 #include <iostream>
 using namespace std;
 
