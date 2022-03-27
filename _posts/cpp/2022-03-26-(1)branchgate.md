@@ -71,7 +71,7 @@ if-else 를 3번 이상 중첩할때부터 가독성이 떨어짐
 
 따라서 else if를 사용!
 
-```++
+```c++
 if (isDead)
 	cout << "몬스터를 처치했습니다" << endl;
 else if (hp <= 20)
