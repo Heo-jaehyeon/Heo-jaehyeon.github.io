@@ -23,11 +23,11 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            <span class="nav__sub-title">어셈블리어</span>
+            <span class="nav__sub-title">Assembly</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Assembly" %}
-                        <li><a href="/categories/NOTICE" class="">Assembly ({{category[1].size}})</a></li>
+                        <li><a href="/categories/NOTICE" class="">Assembly 문법 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
