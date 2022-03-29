@@ -1,4 +1,4 @@
-___
+---
 layout: single
 title: "어셈블리어 문법(1) : 어셈블리어(Assembly language)에 대해"
 categories: Assembly
@@ -6,7 +6,7 @@ tag: [Assembly, Programming, Study]
 toc: true
 author_profile: true
 search: true
-___
+---
 
 
 
@@ -51,7 +51,7 @@ section .data
 
 # 실행파일 구조
 
-![file_structure](C:\Users\307대대\Desktop\file_structure.png)
+![file_structure](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/file_structure.png?raw=true)
 
 실행파일의 구조는 위의 사진처럼 보통 **코드(Section .text)**, **데이터(Section .data)**, **리소스(Section .rsrc) 섹션**에 나뉘어서 저장된다
 
@@ -59,7 +59,7 @@ section .data
 
 # 컴퓨터 구조
 
-![computer_structure](C:\Users\307대대\Desktop\computer_structure.png)
+![computer_structure](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/computer_structure.png?raw=true)
 
 - **CPU**  : 중앙처리장치, 모든 연산을 담당
 
