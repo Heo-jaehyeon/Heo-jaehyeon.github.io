@@ -28,7 +28,7 @@ search: true
 
 # Hello World 출력하기
 
-```ssembly
+```Assembly
 %include "io64.inc"
 
 section .text
