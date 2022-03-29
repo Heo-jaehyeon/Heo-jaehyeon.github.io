@@ -1,3 +1,4 @@
+___
 layout: single
 title: "어셈블리어 문법(1) : 어셈블리어(Assembly language)에 대해"
 categories: Assembly
@@ -5,6 +6,7 @@ tag: [Assembly, Programming, Study]
 toc: true
 author_profile: true
 search: true
+___
 
 
 
@@ -55,7 +57,9 @@ section .data
 
 
 
-# 컴퓨터 구조![computer_structure](C:\Users\307대대\Desktop\computer_structure.png)
+# 컴퓨터 구조
+
+![computer_structure](C:\Users\307대대\Desktop\computer_structure.png)
 
 - **CPU**  : 중앙처리장치, 모든 연산을 담당
 
