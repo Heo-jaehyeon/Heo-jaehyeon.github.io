@@ -1,3 +1,4 @@
+---
 layout: single
 title: "어셈블리어 문법 (2) : 데이터(Data) 기초"
 categories: Assembly
@@ -5,14 +6,14 @@ tag: [Assembly, Programming, Study]
 toc: true
 author_profile: true
 search: true
-
+---
 
 
 # 데이터(Data) 기초
 
 ## 비트(Bit) 와 바이트(Byte)
 
-![bit_bite](C:\Users\307대대\Desktop\bit_bite.jpeg)
+![bit_bite](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/bit_bite.jpeg?raw=true)
 
 ### **비트란** **?** 
 
@@ -24,7 +25,7 @@ search: true
 
 ## 2진수 데이터의 표현
 
-![bit2](C:\Users\307대대\Desktop\bit2.png)
+![bit2](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/bit2.png?raw=true)
 
 
 
@@ -40,7 +41,7 @@ $$
 
 예를 들어
 
-![1byte](C:\Users\307대대\Desktop\1byte.PNG)
+![1byte](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/1byte.PNG?raw=true)
 
 
 
@@ -56,7 +57,7 @@ $$
 
 **바이트 크기에 따라서 최상위 비트가 정수의 부호를 표시함**
 
-![bit](C:\Users\307대대\Desktop\bit.png)
+![bit](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/bit.png?raw=true)
 
 
 
