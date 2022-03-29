@@ -8,7 +8,6 @@ author_profile: true
 search: true
 ---
 
-
 # 데이터(Data) 기초
 
 ## 비트(Bit) 와 바이트(Byte)
