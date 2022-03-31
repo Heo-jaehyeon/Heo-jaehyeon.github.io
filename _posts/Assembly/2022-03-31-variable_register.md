@@ -26,7 +26,7 @@ search: true
 
 ex )
 
-```assembly
+```c++
 section .data
 	a db 0x11
 	b dw 0x2222
@@ -44,7 +44,7 @@ section .data
 
 ex )
 
-```assembly
+```c++
 section .bss
 	e resb 10
 ```
