@@ -1,3 +1,4 @@
+---
 layout: single
 title: "어셈블리어 문법(4) : 변수 (Variable)와 레지스터 (Register)"
 categories: Assembly
@@ -5,6 +6,7 @@ tag: [Assembly, Programming, Study]
 toc: true
 author_profile: true
 search: true
+---
 
 # section. text
 
@@ -107,7 +109,7 @@ section .bss
 
 **참고사항 )**
 
-![memory](C:\Users\307대대\Desktop\memory.PNG)
+![memory](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/memory.PNG?raw=true)
 
 1) mov rax, a 명령어는 rax에 0x403010를 넣는다 따라서 주소값이 아닌
 
