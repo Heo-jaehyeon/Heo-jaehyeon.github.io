@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "어셈블리어 문법(4) : 변수 (Variable)와 레지스터 (Register)"
+title: "어셈블리어 문법(4) : 변수(Variable)와 레지스터(Register)"
 categories: Assembly
 tag: [Assembly, Programming, Study]
 toc: true
