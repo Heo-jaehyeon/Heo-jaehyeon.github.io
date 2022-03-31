@@ -111,8 +111,6 @@ section .bss
 
 ![memory](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/memory.PNG?raw=true)
 
-1) mov rax, a 명령어는 rax에 0x403010를 넣는다 따라서 주소값이 아닌
-
-​	mov rax, [a] 명령어와 같이 a라는 주소에 바구니를 씌워서 변수에 저장된 값을 보내줘야 한다
+1) mov rax, a 명령어는 rax에 0x403010를 넣는다 따라서 주소값이 아닌 mov rax, [a] 명령어와 같이 a라는 주소에 바구니를 씌워서 변수에 저장된 값을 보내줘야 한다
 
 2) a 변수와 b 변수의 value 값을 보면 b가 a의 메모리 바로 옆에 값이 저장되어 표시되는것을 볼수 있다
