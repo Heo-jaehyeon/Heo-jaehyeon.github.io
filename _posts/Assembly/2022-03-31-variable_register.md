@@ -61,7 +61,7 @@ data 영역은 초기화 할때 전부 실행파일인 exe 파일안에 저장�
 
 
 
-# 명령어
+# .data 와 .bss 의 예시코드
 
 ```c++
 %include "io64.inc"
