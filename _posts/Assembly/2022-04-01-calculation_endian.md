@@ -150,7 +150,9 @@ CMAIN:
     PRINT_DEC 1, al ; 1+1=2
     NEWLINE
     
-    add al, [num] ; num은 값이 들어가 있는것이 아니라 주소가 들어있음 따라서 [num]으로 바구니를 씌어줘야한
+    add al, [num] 
+    ; num은 값이 들어가 있는것이 아니라 주소가 들어있음 
+    ; 따라서 [num]으로 바구니를 씌어줘야 한다
     PRINT_DEC 1, al ; 2+2=4
     NEWLINE
     
