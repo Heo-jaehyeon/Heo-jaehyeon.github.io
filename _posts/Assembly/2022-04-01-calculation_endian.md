@@ -1,3 +1,4 @@
+---
 layout: single
 title: "어셈블리어 문법(5) : 문자(Character), 엔디안(Endian), 연산(Calculation)"
 categories: Assembly
@@ -5,6 +6,7 @@ tag: [Assembly, Programming, Study]
 toc: true
 author_profile: true
 search: true
+---
 
 # 문자 (Character)
 
@@ -33,7 +35,7 @@ section .data
     ; 메모리에 0x12345678 를 대입  
 ```
 
-![msg](C:\Users\307대대\Desktop\msg.PNG)
+![msg](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/msg.PNG?raw=true)
 
 msg 라는 변수에 db(1byte) 크기로 Hello World 문자열을 저장할때,
 
