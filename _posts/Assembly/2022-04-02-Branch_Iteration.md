@@ -125,7 +125,7 @@ c언어에서의 while, for, do-while과 같이
 
 
 
-### loop 문을 이용한 1에서 100까지의 합을 구하는 프로그램
+### 1에서 100까지의 합을 구하는 프로그램
 
 ```c++
 %include "io64.inc"
@@ -155,7 +155,7 @@ LABEL_LOOP_SUM:
 
 
 
-### 분기문을 이용한 Hello World를 10번 출력하기
+### Hello World를 10번 출력하기
 
 ```c++
 %include "io64.inc"
@@ -182,7 +182,7 @@ section .bss
 
 
 
-### 분기문을 이용한 1에서 100까지의 합을 구하는 프로그램
+### 1에서 100까지의 합을 구하는 프로그램
 
 ```c++
 %include "io64.inc"
