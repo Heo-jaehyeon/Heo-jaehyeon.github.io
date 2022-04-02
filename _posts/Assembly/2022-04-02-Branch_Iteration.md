@@ -1,3 +1,4 @@
+---
 layout: single
 title: "어셈블리어 문법(6) : 분기문(Branch gate) 과 반복문(Iteration)"
 categories: Assembly
@@ -5,7 +6,7 @@ tag: [Assembly, Programming, Study]
 toc: true
 author_profile: true
 search: true
-
+---
 
 
 # 분기문 (Branch gate)
