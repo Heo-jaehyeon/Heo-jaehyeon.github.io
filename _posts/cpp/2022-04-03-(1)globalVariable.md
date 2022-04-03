@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "C++ 문법(10) : 지역변수와 전역변수, 함수의 값 전달"
+title: "C++ 문법(10) : 지역변수(Localvalue)와 전역변수(Globalvalue), 함수의 값 전달"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
@@ -8,7 +8,7 @@ author_profile: true
 search: true
 ---
 
-# 전역 변수
+# 전역 변수 (Globalvalue)
 
 값이 유지되기 때문에 어디에서든 접근 가능하다
 
@@ -20,7 +20,7 @@ Main 함수 실행가 실행되기 전, 프로그램이 실행되자 마자 메�
 
 
 
-# 지역 변수
+# 지역 변수 (Localvalue)
 
 매번 새로운 값 생성되고 값의 유지가 안된다
 
@@ -59,7 +59,7 @@ int main()
 {
 	Test(); // 전역 변수의 값은 : 0 출력
 	
-	int lovalValue = 1;
+	int localValue = 1; // 지역 변수
 	
 	int hp = 1;
 	
@@ -67,8 +67,8 @@ int main()
 	IncreaseHp(hp);
 	cout << "Increase 호출 후 : " << hp << endl; // 결과 1
 
-    // 위 3줄 코드 에서,
-    // hp가 왜 증가하지 않고 1 일까?
+  // 위 3줄 코드 에서,
+  // hp가 왜 증가하지 않고 1 일까?
 	// main 함수의 지역변수 hp를 건들인것이 아닌
 	// 매개변수에 들어간 hp를 조작했기 때문이다
 	
