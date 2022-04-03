@@ -1,10 +1,12 @@
+---
 layout: single
-title: "C++ 문법(10) : 지역 변수와 함수의 값 전달"
+title: "C++ 문법(10) : 지역변수와 전역변수, 함수의 값 전달"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
 author_profile: true
 search: true
+---
 
 # 전역 변수
 
