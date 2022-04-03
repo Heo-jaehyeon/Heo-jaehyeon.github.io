@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "C++ 문법(10) : 지역변수(Localvalue)와 전역변수(Globalvalue), 함수의 값 전달"
+title: "C++ 문법(10) : 전역변수(Global variable)와 지역변수(Local variable), 함수의 값 전달"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
@@ -8,7 +8,7 @@ author_profile: true
 search: true
 ---
 
-# 전역 변수 (Globalvalue)
+# 전역변수 (Global variable)
 
 값이 유지되기 때문에 어디에서든 접근 가능하다
 
@@ -20,7 +20,7 @@ Main 함수 실행가 실행되기 전, 프로그램이 실행되자 마자 메�
 
 
 
-# 지역 변수 (Localvalue)
+# 지역변수 (Local variable)
 
 매번 새로운 값 생성되고 값의 유지가 안된다
 
