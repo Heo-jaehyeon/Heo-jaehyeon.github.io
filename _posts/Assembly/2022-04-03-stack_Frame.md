@@ -1,3 +1,4 @@
+---
 layout: single
 title: "어셈블리어 문법(8) : 스택 프레임 (Stack frame)"
 categories: Assembly
@@ -5,7 +6,7 @@ tag: [Assembly, Programming, Study]
 toc: true
 author_profile: true
 search: true
-
+---
 
 
 # 스택 프레임 (Stack frame)
@@ -24,7 +25,7 @@ exe 파일 속 메모리 구조를 살펴보면
 
 
 
-![process](C:\Users\307대대\Desktop\process.png)
+![process](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/process.png?raw=true)
 
 
 
@@ -44,7 +45,7 @@ exe 파일 속 메모리 구조를 살펴보면
 
 
 
-![stackframe(1)](C:\Users\307대대\Desktop\stackframe(1).png)
+![stackframe(1)](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/stackframe(1).png?raw=true)
 
 
 
@@ -60,7 +61,7 @@ func2()도 func1() 의 함수 스택 저장 과정과 동일하게 이루어진�
 
 
 
-![stackframe(2)](C:\Users\307대대\Desktop\stackframe(2).png)
+![stackframe(2)](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/stackframe(2).png?raw=true)
 
 func2() 함수 작업이 끝나서 반환되면 스택 속에서 func2()의 스택프레임이 제거 되고
 
