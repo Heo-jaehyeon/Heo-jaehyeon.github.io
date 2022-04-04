@@ -1,5 +1,5 @@
 ---
-title: "백준 문제 C++ 풀이"
+title: "백준 C++ 풀이"
 layout: archive
 permalink: categories/BAEKJOON
 author_profile: true
