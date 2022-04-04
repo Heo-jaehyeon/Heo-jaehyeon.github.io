@@ -1,3 +1,4 @@
+---
 layout: single
 title: "C++ 문법(12) : 함수 마무리"
 categories: Cpp
@@ -5,7 +6,7 @@ tag: [C++, Programming, Study]
 toc: true
 author_profile: true
 search: true
-
+---
 
 
 # 오버로딩 (Overloading)
@@ -87,7 +88,7 @@ int main()
 
 해당 데이터는 스택 영역을 넘어가서 저장한다
 
-![stackoverflow](C:\Users\307대대\Desktop\stackoverflow.png)
+![stackoverflow](https://github.com/Heo-jaehyeon/Heo-jaehyeon.github.io/blob/master/images/stackoverflow.png?raw=true)
 
 이는 **보안상의 큰 취약점**이나 **오동작**을 일으키게 하므로
 
