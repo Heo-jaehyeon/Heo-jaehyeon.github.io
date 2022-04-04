@@ -1,7 +1,7 @@
 ---
 title: "백준 문제 C++ 풀이"
 layout: archive
-permalink: categories/cpp
+permalink: categories/BAEKJOON
 author_profile: true
 sidebar_main: true
 ---
