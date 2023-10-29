@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "HYON'S CODING BLOG"
+title                    : "게임개발 일기장"
 title_separator          : "|"
-subtitle                 : "기록하는 습관이 당신의 삶을 바꾼다"
+subtitle                 : "Since 2023"
 name                     : "Heo-jaehyeon"
 description              : "게임개발을 위해 C++를 공부하고 있는 대학생입니다"
 url                      : "https://Heo-jaehyeon.github.io"
