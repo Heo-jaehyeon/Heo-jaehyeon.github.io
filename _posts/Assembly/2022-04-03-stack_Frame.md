@@ -4,6 +4,7 @@ title: "어셈블리어 문법(8) : 스택 프레임 (Stack frame)"
 categories: Assembly
 tag: [Assembly, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---

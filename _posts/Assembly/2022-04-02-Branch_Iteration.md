@@ -4,6 +4,7 @@ title: "어셈블리어 문법(6) : 분기문(Branch gate) 과 반복문(Iterati
 categories: Assembly
 tag: [Assembly, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---

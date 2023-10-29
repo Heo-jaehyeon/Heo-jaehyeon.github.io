@@ -4,6 +4,7 @@ title: "C++ 문법(1) : 주석(Comment)과 정수(Integer)"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---
@@ -35,7 +36,7 @@ Part1: C++ 프로그래밍 입문편을 보면서
 Ctrl+K+C (Comment), Ctrl+K+U(UnComment)   
 
    
-   
+
 
 
 

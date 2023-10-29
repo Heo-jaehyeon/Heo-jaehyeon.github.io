@@ -4,6 +4,7 @@ title: "C++ 문법(10) : 전역변수(Global variable)와 지역변수(Local var
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---

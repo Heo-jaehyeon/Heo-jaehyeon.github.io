@@ -4,6 +4,7 @@ title: "어셈블리어 문법(1) : 어셈블리어(Assembly language)에 대해
 categories: Assembly
 tag: [Assembly, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---

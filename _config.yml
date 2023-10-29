@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "HYON'S CODING BLOG"
 title_separator          : "|"
-subtitle                 : "기록하는 습관이 당신의 삶을 바꾼다."
+subtitle                 : "기록하는 습관이 당신의 삶을 바꾼다"
 name                     : "Heo-jaehyeon"
 description              : "게임개발을 위해 C++를 공부하고 있는 대학생입니다"
 url                      : "https://Heo-jaehyeon.github.io"
@@ -116,15 +116,15 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100009228488094"
+    - label: # "Facebook"
+      icon: # "fab fa-fw fa-Facebook-square"
+      url: # "https://www.facebook.com/profile.php?id=100009228488094"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Heo-jaehyeon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/hyeon_0204"
+      url: "https://www.instagram.com/heojaehyeon123"
 
 # Site Footer
 footer:
@@ -132,9 +132,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100009228488094"
+    - label: # "Facebook"
+      icon: # "fab fa-fw fa-facebook-square"
+      url: # "https://www.facebook.com/profile.php?id=100009228488094"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Heo-jaehyeon"
@@ -144,9 +144,9 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/hyeon_0204"
+    - label: # "Instagram"
+      icon: # "fab fa-fw fa-instagram"
+      url: # "https://www.instagram.com/heojaehyeon123"
 
 
 # Reading Files

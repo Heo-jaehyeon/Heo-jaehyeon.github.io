@@ -4,6 +4,7 @@ title: "어셈블리어 문법(2) : 데이터(Data) 기초"
 categories: Assembly
 tag: [Assembly, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---
@@ -47,7 +48,7 @@ search: true
 위 표와 같이 최하위 비트부터 최상위 비트까지 각 자리수가 2라는 가중치를 두고 있으며
 
 0000 1101 이라는 2진수는 밑에 있는 수식처럼 가중치 (2) 를 비트가 1인 숫자에 곱해줘서 10진수로 표현 할 수 있다
-   
+
 
 00001101(2진수)= 1×2^0+0×2^1+1×2^2+1×2^3+0×2^4+0×2^5+0×2^6+0×2^7=13(10진수)
 

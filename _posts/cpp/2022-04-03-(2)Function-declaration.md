@@ -4,6 +4,7 @@ title: "C++ 문법(11) : 함수 선언(Function declaration)"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---

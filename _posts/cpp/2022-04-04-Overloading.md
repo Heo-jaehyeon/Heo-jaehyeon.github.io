@@ -4,6 +4,7 @@ title: "C++ 문법(12) : 함수 마무리"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---

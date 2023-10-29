@@ -4,6 +4,7 @@ title: "C++ 문법(4) : 데이터 연산(Data operation)"
 categories: Cpp
 tag: [C++, Programming, Study]
 toc: true
+toc_sticky : true
 author_profile: true
 search: true
 ---
